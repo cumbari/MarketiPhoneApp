@@ -1,0 +1,1681 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* cumbariAppDelegate.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = cumbariAppDelegate.h;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/Classes/cumbariAppDelegate.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1070, 1105}}";
+			sepNavSelRange = "{1911, 0}";
+			sepNavVisRange = "{979, 1008}";
+			sepNavWindowFrame = "{{38, 117}, {1366, 915}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* cumbari */ = {
+		activeExec = 0;
+		executables = (
+			D7B3B9C21296A7F7001361A1 /* cumbari */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = D7B3B9C21296A7F7001361A1 /* cumbari */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* cumbari */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* cumbari */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = D7B3B9E51296A7FC001361A1 /* Code sense */;
+		executables = (
+			D7B3B9C21296A7F7001361A1 /* cumbari */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					406,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 318174255;
+			PBXWorkspaceStateSaveDate = 318174255;
+		};
+		perUserProjectItems = {
+			D711470B12AFCD080021B637 /* PBXTextBookmark */ = D711470B12AFCD080021B637 /* PBXTextBookmark */;
+			D711470C12AFCD080021B637 /* PBXTextBookmark */ = D711470C12AFCD080021B637 /* PBXTextBookmark */;
+			D711471512AFCD080021B637 /* PlistBookmark */ = D711471512AFCD080021B637 /* PlistBookmark */;
+			D711471612AFCD080021B637 /* PBXTextBookmark */ = D711471612AFCD080021B637 /* PBXTextBookmark */;
+			D711472112AFCD080021B637 /* PBXTextBookmark */ = D711472112AFCD080021B637 /* PBXTextBookmark */;
+			D711472312AFCD080021B637 /* PBXTextBookmark */ = D711472312AFCD080021B637 /* PBXTextBookmark */;
+			D711472612AFCD080021B637 /* PBXTextBookmark */ = D711472612AFCD080021B637 /* PBXTextBookmark */;
+			D711472712AFCD080021B637 /* PBXTextBookmark */ = D711472712AFCD080021B637 /* PBXTextBookmark */;
+			D711472C12AFCD080021B637 /* PBXTextBookmark */ = D711472C12AFCD080021B637 /* PBXTextBookmark */;
+			D79D014B12C0CEBA006AF8DC /* PBXBookmark */ = D79D014B12C0CEBA006AF8DC /* PBXBookmark */;
+			D79D014C12C0CEBA006AF8DC /* PBXBookmark */ = D79D014C12C0CEBA006AF8DC /* PBXBookmark */;
+			D79D014D12C0CEBA006AF8DC /* PBXBookmark */ = D79D014D12C0CEBA006AF8DC /* PBXBookmark */;
+			D79D014E12C0CEBA006AF8DC /* PBXBookmark */ = D79D014E12C0CEBA006AF8DC /* PBXBookmark */;
+			D79D014F12C0CEBA006AF8DC /* PBXBookmark */ = D79D014F12C0CEBA006AF8DC /* PBXBookmark */;
+			D79D015012C0CEBA006AF8DC /* PBXBookmark */ = D79D015012C0CEBA006AF8DC /* PBXBookmark */;
+			D79D015112C0CEBA006AF8DC /* PBXBookmark */ = D79D015112C0CEBA006AF8DC /* PBXBookmark */;
+			D79D015212C0CEBA006AF8DC /* PBXBookmark */ = D79D015212C0CEBA006AF8DC /* PBXBookmark */;
+			D79D015312C0CEBA006AF8DC /* PBXBookmark */ = D79D015312C0CEBA006AF8DC /* PBXBookmark */;
+			D79D015612C0CEBA006AF8DC /* PBXBookmark */ = D79D015612C0CEBA006AF8DC /* PBXBookmark */;
+			D79D015812C0CEBA006AF8DC /* PBXBookmark */ = D79D015812C0CEBA006AF8DC /* PBXBookmark */;
+			D79D019912C0DF8C006AF8DC /* PBXBookmark */ = D79D019912C0DF8C006AF8DC /* PBXBookmark */;
+			D79D8FAC12A41E1000985652 /* PBXTextBookmark */ = D79D8FAC12A41E1000985652 /* PBXTextBookmark */;
+			D79D8FB412A41E5000985652 /* PBXTextBookmark */ = D79D8FB412A41E5000985652 /* PBXTextBookmark */;
+			D7A3502912BB70E000174E38 /* PBXBookmark */ = D7A3502912BB70E000174E38 /* PBXBookmark */;
+			D7A3D41612C31D9400CCC4F5 /* PBXTextBookmark */ = D7A3D41612C31D9400CCC4F5 /* PBXTextBookmark */;
+			D7A3D41812C31D9400CCC4F5 /* PBXTextBookmark */ = D7A3D41812C31D9400CCC4F5 /* PBXTextBookmark */;
+			D7A3D4CF12C32A0D00CCC4F5 /* PBXTextBookmark */ = D7A3D4CF12C32A0D00CCC4F5 /* PBXTextBookmark */;
+			D7A3D50812C3317D00CCC4F5 /* PBXBookmark */ = D7A3D50812C3317D00CCC4F5 /* PBXBookmark */;
+			D7A3D51912C3328500CCC4F5 /* PBXTextBookmark */ = D7A3D51912C3328500CCC4F5 /* PBXTextBookmark */;
+			D7A3D51A12C3328500CCC4F5 /* PBXTextBookmark */ = D7A3D51A12C3328500CCC4F5 /* PBXTextBookmark */;
+			D7A3D5F412C33AFC00CCC4F5 /* PlistBookmark */ = D7A3D5F412C33AFC00CCC4F5 /* PlistBookmark */;
+			D7A3D66512C34F8700CCC4F5 /* PBXTextBookmark */ = D7A3D66512C34F8700CCC4F5 /* PBXTextBookmark */;
+			D7A3D66612C34F8700CCC4F5 /* PBXTextBookmark */ = D7A3D66612C34F8700CCC4F5 /* PBXTextBookmark */;
+			D7A3D67D12C3503E00CCC4F5 /* PBXTextBookmark */ = D7A3D67D12C3503E00CCC4F5 /* PBXTextBookmark */;
+			D7A3D67E12C3503E00CCC4F5 /* PBXTextBookmark */ = D7A3D67E12C3503E00CCC4F5 /* PBXTextBookmark */;
+			D7A3D68412C3512A00CCC4F5 /* PBXTextBookmark */ = D7A3D68412C3512A00CCC4F5 /* PBXTextBookmark */;
+			D7A3D68512C3512A00CCC4F5 /* PBXTextBookmark */ = D7A3D68512C3512A00CCC4F5 /* PBXTextBookmark */;
+			D7A3D69012C3521F00CCC4F5 /* PBXTextBookmark */ = D7A3D69012C3521F00CCC4F5 /* PBXTextBookmark */;
+			D7A3D69112C3521F00CCC4F5 /* PBXTextBookmark */ = D7A3D69112C3521F00CCC4F5 /* PBXTextBookmark */;
+			D7A3D69212C3521F00CCC4F5 /* PBXTextBookmark */ = D7A3D69212C3521F00CCC4F5 /* PBXTextBookmark */;
+			D7A3D69812C3534E00CCC4F5 /* PBXTextBookmark */ = D7A3D69812C3534E00CCC4F5 /* PBXTextBookmark */;
+			D7A3D6A012C353F300CCC4F5 /* PBXTextBookmark */ = D7A3D6A012C353F300CCC4F5 /* PBXTextBookmark */;
+			D7A3D6AD12C3556D00CCC4F5 /* PBXTextBookmark */ = D7A3D6AD12C3556D00CCC4F5 /* PBXTextBookmark */;
+			D7A3D6AE12C3556D00CCC4F5 /* PBXTextBookmark */ = D7A3D6AE12C3556D00CCC4F5 /* PBXTextBookmark */;
+			D7A3D79112C369BC00CCC4F5 /* PBXTextBookmark */ = D7A3D79112C369BC00CCC4F5 /* PBXTextBookmark */;
+			D7A3D81E12C375F800CCC4F5 /* PBXTextBookmark */ = D7A3D81E12C375F800CCC4F5 /* PBXTextBookmark */;
+			D7A3D81F12C375F800CCC4F5 /* PBXBookmark */ = D7A3D81F12C375F800CCC4F5 /* PBXBookmark */;
+			D7A3D83B12C37B2E00CCC4F5 /* PBXBookmark */ = D7A3D83B12C37B2E00CCC4F5 /* PBXBookmark */;
+			D7A3D83C12C37B2E00CCC4F5 /* PBXBookmark */ = D7A3D83C12C37B2E00CCC4F5 /* PBXBookmark */;
+			D7A3D83D12C37B2E00CCC4F5 /* PBXBookmark */ = D7A3D83D12C37B2E00CCC4F5 /* PBXBookmark */;
+			D7ABF5C812F6F67D00A4A56D /* PBXTextBookmark */ = D7ABF5C812F6F67D00A4A56D /* PBXTextBookmark */;
+			D7ABF5C912F6F67D00A4A56D /* PBXTextBookmark */ = D7ABF5C912F6F67D00A4A56D /* PBXTextBookmark */;
+			D7ABF5CA12F6F67D00A4A56D /* PBXTextBookmark */ = D7ABF5CA12F6F67D00A4A56D /* PBXTextBookmark */;
+			D7B3287612BF5573002516B2 /* PBXTextBookmark */ = D7B3287612BF5573002516B2 /* PBXTextBookmark */;
+			D7B3287712BF5573002516B2 /* PBXTextBookmark */ = D7B3287712BF5573002516B2 /* PBXTextBookmark */;
+			D7B3288E12BF5743002516B2 /* PBXTextBookmark */ = D7B3288E12BF5743002516B2 /* PBXTextBookmark */;
+			D7B3299C12BF7380002516B2 /* PBXBookmark */ = D7B3299C12BF7380002516B2 /* PBXBookmark */;
+			D7B3299D12BF7380002516B2 /* PBXBookmark */ = D7B3299D12BF7380002516B2 /* PBXBookmark */;
+			D7B3299E12BF7380002516B2 /* PBXBookmark */ = D7B3299E12BF7380002516B2 /* PBXBookmark */;
+			D7B329A012BF7380002516B2 /* PBXBookmark */ = D7B329A012BF7380002516B2 /* PBXBookmark */;
+			D7B329A112BF7380002516B2 /* PBXBookmark */ = D7B329A112BF7380002516B2 /* PBXBookmark */;
+			D7B329A212BF7380002516B2 /* PBXBookmark */ = D7B329A212BF7380002516B2 /* PBXBookmark */;
+			D7B329A312BF7380002516B2 /* PBXBookmark */ = D7B329A312BF7380002516B2 /* PBXBookmark */;
+			D7B329A412BF7380002516B2 /* PBXBookmark */ = D7B329A412BF7380002516B2 /* PBXBookmark */;
+			D7B329A612BF7380002516B2 /* PBXBookmark */ = D7B329A612BF7380002516B2 /* PBXBookmark */;
+			D7B329A812BF7380002516B2 /* PBXBookmark */ = D7B329A812BF7380002516B2 /* PBXBookmark */;
+			D7B329A912BF7380002516B2 /* PlistBookmark */ = D7B329A912BF7380002516B2 /* PlistBookmark */;
+			D7BB782812C1D06600CFA95C /* PBXBookmark */ = D7BB782812C1D06600CFA95C /* PBXBookmark */;
+			D7BB78C612C1E5F600CFA95C /* PBXTextBookmark */ = D7BB78C612C1E5F600CFA95C /* PBXTextBookmark */;
+			D7BB78C712C1E5F600CFA95C /* PBXTextBookmark */ = D7BB78C712C1E5F600CFA95C /* PBXTextBookmark */;
+			D7BB78DF12C2088600CFA95C /* PBXTextBookmark */ = D7BB78DF12C2088600CFA95C /* PBXTextBookmark */;
+			D7BB78E112C2088600CFA95C /* PBXTextBookmark */ = D7BB78E112C2088600CFA95C /* PBXTextBookmark */;
+			D7BB792512C2110B00CFA95C /* PBXTextBookmark */ = D7BB792512C2110B00CFA95C /* PBXTextBookmark */;
+			D7BB794E12C2136C00CFA95C /* PBXTextBookmark */ = D7BB794E12C2136C00CFA95C /* PBXTextBookmark */;
+			D7BB795C12C2145400CFA95C /* PBXTextBookmark */ = D7BB795C12C2145400CFA95C /* PBXTextBookmark */;
+			D7BB796412C2154200CFA95C /* PBXTextBookmark */ = D7BB796412C2154200CFA95C /* PBXTextBookmark */;
+			D7BB796512C2154200CFA95C /* PBXTextBookmark */ = D7BB796512C2154200CFA95C /* PBXTextBookmark */;
+			D7C6102012C4A86D00EB5AEA /* PBXTextBookmark */ = D7C6102012C4A86D00EB5AEA /* PBXTextBookmark */;
+			D7C6104B12C4AEDD00EB5AEA /* PBXTextBookmark */ = D7C6104B12C4AEDD00EB5AEA /* PBXTextBookmark */;
+			D7C6104D12C4AEDD00EB5AEA /* PBXTextBookmark */ = D7C6104D12C4AEDD00EB5AEA /* PBXTextBookmark */;
+			D7C6104E12C4AEDD00EB5AEA /* PBXTextBookmark */ = D7C6104E12C4AEDD00EB5AEA /* PBXTextBookmark */;
+			D7C6105D12C4B03100EB5AEA /* PBXTextBookmark */ = D7C6105D12C4B03100EB5AEA /* PBXTextBookmark */;
+			D7C6106E12C4C97000EB5AEA /* PBXTextBookmark */ = D7C6106E12C4C97000EB5AEA /* PBXTextBookmark */;
+		};
+		sourceControlManager = D7B3B9E41296A7FC001361A1 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1070, 858}}";
+			sepNavSelRange = "{963, 0}";
+			sepNavVisRange = "{341, 778}";
+			sepNavWindowFrame = "{{15, 327}, {606, 726}}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* cumbari_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1330, 570}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 183}";
+		};
+	};
+	8D1107310486CEB800E47090 /* cumbari-Info.plist */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.plist.xml;
+		name = "cumbari-Info.plist";
+		path = "/Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/cumbari-Info.plist";
+		plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavWindowFrame = "{{38, 306}, {606, 726}}";
+		};
+	};
+	B474B3D9129D18F800EAE3E6 /* icon.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = icon.png;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/icon.png;
+		sourceTree = "<absolute>";
+	};
+	B4781C00129CCD8B00F2F575 /* Favorites.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = Favorites.h;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/Favorites.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {854, 676}}";
+			sepNavSelRange = "{651, 0}";
+			sepNavVisRange = "{0, 737}";
+		};
+	};
+	B4781C01129CCD8B00F2F575 /* Favorites.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = Favorites.m;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/Favorites.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1070, 10998}}";
+			sepNavSelRange = "{9760, 0}";
+			sepNavVisRange = "{4089, 726}";
+			sepNavWindowFrame = "{{38, 117}, {1366, 915}}";
+		};
+	};
+	B4781C05129CD8B600F2F575 /* EndScreen.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = EndScreen.png;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/EndScreen.png;
+		sourceTree = "<absolute>";
+	};
+	B4781C07129CD8E300F2F575 /* EndScreen.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = EndScreen.h;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/EndScreen.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1330, 570}}";
+			sepNavSelRange = "{319, 35}";
+			sepNavVisRange = "{0, 361}";
+		};
+	};
+	B4781C08129CD8E300F2F575 /* EndScreen.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = EndScreen.m;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/EndScreen.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 936}}";
+			sepNavSelRange = "{385, 0}";
+			sepNavVisRange = "{846, 855}";
+		};
+	};
+	B4781C3E129CE29D00F2F575 /* DetailedUseDeal.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = DetailedUseDeal.png;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/DetailedUseDeal.png;
+		sourceTree = "<absolute>";
+	};
+	B479B20512955A8D00BF3AA3 /* OverlayViewController.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = OverlayViewController.h;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/OverlayViewController.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1060, 561}}";
+			sepNavSelRange = "{563, 0}";
+			sepNavVisRange = "{0, 570}";
+		};
+	};
+	B479B20612955A8D00BF3AA3 /* OverlayViewController.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = OverlayViewController.m;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/OverlayViewController.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1330, 1027}}";
+			sepNavSelRange = "{599, 0}";
+			sepNavVisRange = "{991, 959}";
+		};
+	};
+	B47F94511296408A00658A67 /* map.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = map.h;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/map.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1070, 518}}";
+			sepNavSelRange = "{281, 48}";
+			sepNavVisRange = "{0, 644}";
+		};
+	};
+	B47F94521296408A00658A67 /* map.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = map.m;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/map.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1489, 5733}}";
+			sepNavSelRange = "{2629, 0}";
+			sepNavVisRange = "{10260, 838}";
+		};
+	};
+	B47F94541296408A00658A67 /* MyAnnotation.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = MyAnnotation.h;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/MyAnnotation.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1070, 471}}";
+			sepNavSelRange = "{642, 37}";
+			sepNavVisRange = "{0, 685}";
+		};
+	};
+	B47F94551296408A00658A67 /* MyAnnotation.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = MyAnnotation.m;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/MyAnnotation.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1070, 637}}";
+			sepNavSelRange = "{852, 0}";
+			sepNavVisRange = "{206, 752}";
+		};
+	};
+	B47F94E81296481700658A67 /* categories.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = categories.h;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/categories.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1070, 559}}";
+			sepNavSelRange = "{503, 0}";
+			sepNavVisRange = "{0, 730}";
+		};
+	};
+	B47F94E91296481700658A67 /* categories.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = categories.m;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/categories.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{13894, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{13945, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{13995, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 15556}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1286, 7098}}";
+			sepNavSelRange = "{8312, 0}";
+			sepNavVisRange = "{14803, 696}";
+		};
+	};
+	B47F954A129653AC00658A67 /* Categories.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = Categories.png;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/Categories.png;
+		sourceTree = "<absolute>";
+	};
+	B47F954B129653AC00658A67 /* Settings.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = Settings.png;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/Settings.png;
+		sourceTree = "<absolute>";
+	};
+	B47F954C129653AC00658A67 /* Favourites.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = Favourites.png;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/Favourites.png;
+		sourceTree = "<absolute>";
+	};
+	B47F9551129653B100658A67 /* Brands.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = Brands.png;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/Brands.png;
+		sourceTree = "<absolute>";
+	};
+	B47F9786129682D700658A67 /* DetailedCoupon.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = DetailedCoupon.h;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/DetailedCoupon.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1070, 1209}}";
+			sepNavSelRange = "{1439, 0}";
+			sepNavVisRange = "{1183, 785}";
+			sepNavWindowFrame = "{{15, 138}, {1366, 915}}";
+		};
+	};
+	B47F9787129682D700658A67 /* DetailedCoupon.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = DetailedCoupon.m;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/DetailedCoupon.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1377, 13351}}";
+			sepNavSelRange = "{24918, 0}";
+			sepNavVisRange = "{25237, 715}";
+		};
+	};
+	B47F98F11296A34400658A67 /* CouponsInSelectedCategory.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = CouponsInSelectedCategory.h;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/CouponsInSelectedCategory.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {854, 559}}";
+			sepNavSelRange = "{556, 0}";
+			sepNavVisRange = "{0, 739}";
+		};
+	};
+	B47F98F21296A34400658A67 /* CouponsInSelectedCategory.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = CouponsInSelectedCategory.m;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/CouponsInSelectedCategory.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{11344, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{11395, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{11445, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 12889}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1475, 5889}}";
+			sepNavSelRange = "{1466, 0}";
+			sepNavVisRange = "{11910, 862}";
+		};
+	};
+	B4806A1D129FB1A400D0D30C /* Done.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = Done.png;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/Done.png;
+		sourceTree = "<absolute>";
+	};
+	B4806A3D129FB5F800D0D30C /* Back.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = Back.png;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/Back.png;
+		sourceTree = "<absolute>";
+	};
+	B4869CF212AF6C74000AAE45 /* Splash.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = Splash.h;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/Classes/Splash.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1070, 494}}";
+			sepNavSelRange = "{301, 0}";
+			sepNavVisRange = "{0, 310}";
+		};
+	};
+	B4869CF312AF6C74000AAE45 /* Splash.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = Splash.m;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/Classes/Splash.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 910}}";
+			sepNavSelRange = "{1146, 0}";
+			sepNavVisRange = "{636, 1154}";
+		};
+	};
+	B4869D1312AF7022000AAE45 /* End_Screen.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = End_Screen.png;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/End_Screen.png;
+		sourceTree = "<absolute>";
+	};
+	B4869D6312AF7676000AAE45 /* DetailedSettings.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = DetailedSettings.h;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/DetailedSettings.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1070, 495}}";
+			sepNavSelRange = "{340, 11}";
+			sepNavVisRange = "{0, 503}";
+		};
+	};
+	B4869D6412AF7676000AAE45 /* DetailedSettings.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = DetailedSettings.m;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/DetailedSettings.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{8879, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{8930, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{8980, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 10324}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1070, 5551}}";
+			sepNavSelRange = "{4380, 0}";
+			sepNavVisRange = "{9634, 633}";
+		};
+	};
+	B4869D6812AF768E000AAE45 /* DetailedSettings.plist */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.plist.xml;
+		name = DetailedSettings.plist;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/DetailedSettings.plist;
+		sourceTree = "<absolute>";
+	};
+	B488C79512B3698D00A2CBE0 /* offersInList.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = offersInList.h;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/offersInList.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {854, 501}}";
+			sepNavSelRange = "{355, 0}";
+			sepNavVisRange = "{0, 408}";
+		};
+	};
+	B488C79612B3698D00A2CBE0 /* offersInList.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = offersInList.m;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/offersInList.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 2665}}";
+			sepNavSelRange = "{1790, 0}";
+			sepNavVisRange = "{4005, 810}";
+		};
+	};
+	B488C93F12B3A2F200A2CBE0 /* Range.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = Range.h;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/Range.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {854, 501}}";
+			sepNavSelRange = "{339, 0}";
+			sepNavVisRange = "{0, 391}";
+		};
+	};
+	B488C94012B3A2F200A2CBE0 /* Range.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = Range.m;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/Range.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 2574}}";
+			sepNavSelRange = "{1757, 0}";
+			sepNavVisRange = "{3942, 809}";
+		};
+	};
+	B488C97F12B3A59300A2CBE0 /* language.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = language.h;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/language.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1070, 495}}";
+			sepNavSelRange = "{503, 59}";
+			sepNavVisRange = "{0, 638}";
+		};
+	};
+	B488C9C712B3A99800A2CBE0 /* unit.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = unit.h;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/unit.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {854, 493}}";
+			sepNavSelRange = "{492, 59}";
+			sepNavVisRange = "{0, 625}";
+		};
+	};
+	B488C9C812B3A99800A2CBE0 /* unit.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = unit.m;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/unit.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{7630, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{7681, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{7731, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 8996}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1070, 4485}}";
+			sepNavSelRange = "{985, 0}";
+			sepNavVisRange = "{8144, 788}";
+		};
+	};
+	B48CCF3512A68C6D0022B52E /* FilteredCoupons.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = FilteredCoupons.h;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/FilteredCoupons.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {854, 493}}";
+			sepNavSelRange = "{360, 0}";
+			sepNavVisRange = "{0, 551}";
+		};
+	};
+	B492047912B0BFAC009BC7BD /* moreinfo.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = moreinfo.h;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/moreinfo.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1070, 585}}";
+			sepNavSelRange = "{729, 0}";
+			sepNavVisRange = "{151, 588}";
+		};
+	};
+	B492047A12B0BFAC009BC7BD /* moreinfo.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = moreinfo.m;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/moreinfo.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1475, 3159}}";
+			sepNavSelRange = "{1561, 0}";
+			sepNavVisRange = "{5666, 770}";
+		};
+	};
+	B49207CB12B10EC3009BC7BD /* moreDeals.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = moreDeals.h;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/moreDeals.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1070, 495}}";
+			sepNavSelRange = "{280, 0}";
+			sepNavVisRange = "{0, 291}";
+		};
+	};
+	B49207CC12B10EC3009BC7BD /* moreDeals.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = moreDeals.m;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/moreDeals.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{11083, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{11134, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{11184, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 12672}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1070, 6240}}";
+			sepNavSelRange = "{1139, 0}";
+			sepNavVisRange = "{11870, 745}";
+			sepNavWindowFrame = "{{38, 117}, {1366, 915}}";
+		};
+	};
+	B4941BEB129BAF4800E459B6 /* Brands.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = Brands.h;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/Brands.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {854, 780}}";
+			sepNavSelRange = "{745, 0}";
+			sepNavVisRange = "{200, 795}";
+		};
+	};
+	B4941BEC129BAF4800E459B6 /* Brands.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = Brands.m;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/Brands.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{21134, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{21185, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{21235, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 23188}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1070, 11882}}";
+			sepNavSelRange = "{19055, 0}";
+			sepNavVisRange = "{22053, 837}";
+			sepNavWindowFrame = "{{38, 117}, {1366, 915}}";
+		};
+	};
+	B497422212C0BE5000CDA5DD /* Lista.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = Lista.png;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/Lista.png;
+		sourceTree = "<absolute>";
+	};
+	B497426712C0C5B200CDA5DD /* RightArrow.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = RightArrow.png;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/RightArrow.png;
+		sourceTree = "<absolute>";
+	};
+	B4A5F122129E75DF004656ED /* TabBar.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = TabBar.png;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/TabBar.png;
+		sourceTree = "<absolute>";
+	};
+	B4A5F218129E8B85004656ED /* newCumbariLogo.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = newCumbariLogo.png;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/newCumbariLogo.png;
+		sourceTree = "<absolute>";
+	};
+	B4A5F27A129E9362004656ED /* logo.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = logo.png;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/logo.png;
+		sourceTree = "<absolute>";
+	};
+	B4ADAD3D129A698400D6AC60 /* Settings.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = Settings.h;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/Settings.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1070, 495}}";
+			sepNavSelRange = "{383, 0}";
+			sepNavVisRange = "{0, 537}";
+			sepNavWindowFrame = "{{15, 138}, {1366, 915}}";
+		};
+	};
+	B4ADAD3E129A698400D6AC60 /* Settings.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = Settings.m;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/Settings.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1070, 3445}}";
+			sepNavSelRange = "{3963, 0}";
+			sepNavVisRange = "{5959, 859}";
+		};
+	};
+	B4ADAD40129A698400D6AC60 /* settings.plist */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.plist.xml;
+		name = settings.plist;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/settings.plist;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavWindowFrame = "{{1309, 136}, {656, 877}}";
+		};
+	};
+	B4ADAD41129A698400D6AC60 /* AllLanguages.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = AllLanguages.h;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/AllLanguages.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1330, 570}}";
+			sepNavSelRange = "{260, 0}";
+			sepNavVisRange = "{0, 342}";
+		};
+	};
+	B4ADAD42129A698400D6AC60 /* AllLanguages.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = AllLanguages.m;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/AllLanguages.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = \"(id <UIActionSheetDelegate>)delegate\";\n            r = \"{5072, 40}\";\n            s = 1;\n        },\n                {\n            l = \"(NSString *)cancelButtonTitle\";\n            r = \"{5131, 33}\";\n            s = 1;\n        },\n                {\n            l = \"(NSString *)destructiveButtonTitle\";\n            r = \"{5188, 38}\";\n            s = 1;\n        },\n                {\n            l = \"(NSString *)otherButtonTitles\";\n            r = \"{5245, 33}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 5812}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1070, 3237}}";
+			sepNavSelRange = "{1009, 272}";
+			sepNavVisRange = "{742, 666}";
+		};
+	};
+	B4ADADAB129A8E0E00D6AC60 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {854, 501}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 551}";
+		};
+	};
+	B4ADADAF129A8E1B00D6AC60 /* swe */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {854, 501}}";
+			sepNavSelRange = "{412, 13}";
+			sepNavVisRange = "{0, 571}";
+		};
+	};
+	B4DBE0B012AE4A3500EB5AAE /* List_button.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = List_button.png;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/List_button.png;
+		sourceTree = "<absolute>";
+	};
+	B4DBE0F612AE57D300EB5AAE /* map.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = map.png;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/map.png;
+		sourceTree = "<absolute>";
+	};
+	B4DBE13512AE626900EB5AAE /* Bottom_DetailedTab.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = Bottom_DetailedTab.png;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/Bottom_DetailedTab.png;
+		sourceTree = "<absolute>";
+	};
+	B4DBE13A12AE62DF00EB5AAE /* DetailedTab_Button.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = DetailedTab_Button.png;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/DetailedTab_Button.png;
+		sourceTree = "<absolute>";
+	};
+	B4DBE13B12AE62DF00EB5AAE /* DetailedTab_RedButton.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = DetailedTab_RedButton.png;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/DetailedTab_RedButton.png;
+		sourceTree = "<absolute>";
+	};
+	B4DBE13C12AE62DF00EB5AAE /* FB.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = FB.png;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/FB.png;
+		sourceTree = "<absolute>";
+	};
+	B4DBE13D12AE62DF00EB5AAE /* UseDeal.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = UseDeal.png;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/UseDeal.png;
+		sourceTree = "<absolute>";
+	};
+	B4DBE14412AE667C00EB5AAE /* Inactive_button.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = Inactive_button.png;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/Inactive_button.png;
+		sourceTree = "<absolute>";
+	};
+	B4F6D34E12AFA20B00A3AC3D /* Defualt.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = Defualt.png;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/Classes/Defualt.png;
+		sourceTree = "<absolute>";
+	};
+	D711470B12AFCD080021B637 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7CA0BB412ACABB10005BA8C /* SlideToUseDeal.h */;
+		name = "SlideToUseDeal.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 747;
+		vrLoc = 0;
+	};
+	D711470C12AFCD080021B637 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7CA0BB512ACABB10005BA8C /* SlideToUseDeal.m */;
+		name = "SlideToUseDeal.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1890;
+		vrLoc = 7430;
+	};
+	D711471512AFCD080021B637 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = B4ADAD40129A698400D6AC60 /* settings.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/shephertztechnologies/Downloads/Cumbari_0_2_08_12_2010/settings.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	D711471612AFCD080021B637 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B4ADAD41129A698400D6AC60 /* AllLanguages.h */;
+		name = "AllLanguages.h: 16";
+		rLen = 0;
+		rLoc = 260;
+		rType = 0;
+		vrLen = 342;
+		vrLoc = 0;
+	};
+	D711472112AFCD080021B637 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B47F94551296408A00658A67 /* MyAnnotation.m */;
+		name = "MyAnnotation.m: 41";
+		rLen = 0;
+		rLoc = 852;
+		rType = 0;
+		vrLen = 876;
+		vrLoc = 82;
+	};
+	D711472312AFCD080021B637 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B479B20612955A8D00BF3AA3 /* OverlayViewController.m */;
+		name = "OverlayViewController.m: 24";
+		rLen = 0;
+		rLoc = 599;
+		rType = 0;
+		vrLen = 959;
+		vrLoc = 991;
+	};
+	D711472612AFCD080021B637 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B4781C07129CD8E300F2F575 /* EndScreen.h */;
+		name = "EndScreen.h: 21";
+		rLen = 35;
+		rLoc = 319;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 0;
+	};
+	D711472712AFCD080021B637 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B4781C08129CD8E300F2F575 /* EndScreen.m */;
+		name = "EndScreen.m: 22";
+		rLen = 0;
+		rLoc = 385;
+		rType = 0;
+		vrLen = 951;
+		vrLoc = 790;
+	};
+	D711472C12AFCD080021B637 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* cumbari_Prefix.pch */;
+		name = "cumbari_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 183;
+		vrLoc = 0;
+	};
+	D79D014712C0CE93006AF8DC /* LeftBack.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = LeftBack.png;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/LeftBack.png;
+		sourceTree = "<absolute>";
+	};
+	D79D014B12C0CEBA006AF8DC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B4869D1312AF7022000AAE45 /* End_Screen.png */;
+	};
+	D79D014C12C0CEBA006AF8DC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B4DBE13A12AE62DF00EB5AAE /* DetailedTab_Button.png */;
+	};
+	D79D014D12C0CEBA006AF8DC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B4DBE14412AE667C00EB5AAE /* Inactive_button.png */;
+	};
+	D79D014E12C0CEBA006AF8DC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B4DBE13B12AE62DF00EB5AAE /* DetailedTab_RedButton.png */;
+	};
+	D79D014F12C0CEBA006AF8DC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B4DBE13C12AE62DF00EB5AAE /* FB.png */;
+	};
+	D79D015012C0CEBA006AF8DC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B4DBE13D12AE62DF00EB5AAE /* UseDeal.png */;
+	};
+	D79D015112C0CEBA006AF8DC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B4DBE13512AE626900EB5AAE /* Bottom_DetailedTab.png */;
+	};
+	D79D015212C0CEBA006AF8DC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B4DBE0F612AE57D300EB5AAE /* map.png */;
+	};
+	D79D015312C0CEBA006AF8DC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B4781C3E129CE29D00F2F575 /* DetailedUseDeal.png */;
+	};
+	D79D015612C0CEBA006AF8DC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B497426712C0C5B200CDA5DD /* RightArrow.png */;
+	};
+	D79D015812C0CEBA006AF8DC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B4DBE0B012AE4A3500EB5AAE /* List_button.png */;
+	};
+	D79D019912C0DF8C006AF8DC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = D79D014712C0CE93006AF8DC /* LeftBack.png */;
+	};
+	D79D8C4212A3CE1200985652 /* no_image.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = no_image.png;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/no_image.png;
+		sourceTree = "<absolute>";
+	};
+	D79D8C4412A3CE1900985652 /* no-image-icon.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "no-image-icon.png";
+		path = "/Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/no-image-icon.png";
+		sourceTree = "<absolute>";
+	};
+	D79D8DC412A40FC800985652 /* categories.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = categories.m;
+		path = /Users/Shared/Cumbari_release/categories.m;
+		sourceTree = "<absolute>";
+	};
+	D79D8DD212A410B000985652 /* CouponsInSelectedCategory.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = CouponsInSelectedCategory.m;
+		path = /Users/Shared/Cumbari_release/CouponsInSelectedCategory.m;
+		sourceTree = "<absolute>";
+	};
+	D79D8FAC12A41E1000985652 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D79D8DD212A410B000985652 /* CouponsInSelectedCategory.m */;
+		rLen = 0;
+		rLoc = 174;
+		rType = 1;
+	};
+	D79D8FB412A41E5000985652 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D79D8DC412A40FC800985652 /* categories.m */;
+		rLen = 0;
+		rLoc = 345;
+		rType = 1;
+	};
+	D7A3502912BB70E000174E38 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B4F6D34E12AFA20B00A3AC3D /* Defualt.png */;
+	};
+	D7A3D41612C31D9400CCC4F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B47F98F11296A34400658A67 /* CouponsInSelectedCategory.h */;
+		name = "CouponsInSelectedCategory.h: 27";
+		rLen = 0;
+		rLoc = 556;
+		rType = 0;
+		vrLen = 739;
+		vrLoc = 0;
+	};
+	D7A3D41812C31D9400CCC4F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B48CCF3512A68C6D0022B52E /* FilteredCoupons.h */;
+		name = "FilteredCoupons.h: 20";
+		rLen = 0;
+		rLoc = 360;
+		rType = 0;
+		vrLen = 551;
+		vrLoc = 0;
+	};
+	D7A3D4CF12C32A0D00CCC4F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7A3D4D012C32A0D00CCC4F5 /* UITableViewController.h */;
+		name = "UITableViewController.h: 28";
+		rLen = 52;
+		rLoc = 1012;
+		rType = 0;
+		vrLen = 1250;
+		vrLoc = 0;
+	};
+	D7A3D4D012C32A0D00CCC4F5 /* UITableViewController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UITableViewController.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewController.h;
+		sourceTree = "<absolute>";
+	};
+	D7A3D50112C3301A00CCC4F5 /* demo.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = demo.png;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/demo.png;
+		sourceTree = "<absolute>";
+	};
+	D7A3D50812C3317D00CCC4F5 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = D7A3D50112C3301A00CCC4F5 /* demo.png */;
+	};
+	D7A3D51912C3328500CCC4F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B488C9C712B3A99800A2CBE0 /* unit.h */;
+		name = "unit.h: 28";
+		rLen = 59;
+		rLoc = 492;
+		rType = 0;
+		vrLen = 625;
+		vrLoc = 0;
+	};
+	D7A3D51A12C3328500CCC4F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B488C9C812B3A99800A2CBE0 /* unit.m */;
+		name = "unit.m: 165";
+		rLen = 41;
+		rLoc = 3389;
+		rType = 0;
+		vrLen = 920;
+		vrLoc = 3333;
+	};
+	D7A3D5F412C33AFC00CCC4F5 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = B4869D6812AF768E000AAE45 /* DetailedSettings.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/shephertztechnologies/Downloads/Cumbari_0_2_08_12_2010 2/DetailedSettings.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	D7A3D66512C34F8700CCC4F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B488C97F12B3A59300A2CBE0 /* language.h */;
+		name = "language.h: 30";
+		rLen = 59;
+		rLoc = 503;
+		rType = 0;
+		vrLen = 638;
+		vrLoc = 0;
+	};
+	D7A3D66612C34F8700CCC4F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B4869D6312AF7676000AAE45 /* DetailedSettings.h */;
+		name = "DetailedSettings.h: 17";
+		rLen = 11;
+		rLoc = 340;
+		rType = 0;
+		vrLen = 503;
+		vrLoc = 0;
+	};
+	D7A3D67D12C3503E00CCC4F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B4ADAD3D129A698400D6AC60 /* Settings.h */;
+		name = "Settings.h: 21";
+		rLen = 0;
+		rLoc = 383;
+		rType = 0;
+		vrLen = 537;
+		vrLoc = 0;
+	};
+	D7A3D67E12C3503E00CCC4F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B4869D6412AF7676000AAE45 /* DetailedSettings.m */;
+		name = "DetailedSettings.m: 328";
+		rLen = 0;
+		rLoc = 4383;
+		rType = 0;
+		vrLen = 791;
+		vrLoc = 7192;
+	};
+	D7A3D68412C3512A00CCC4F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B4ADAD3E129A698400D6AC60 /* Settings.m */;
+		name = "Settings.m: 152";
+		rLen = 0;
+		rLoc = 2545;
+		rType = 0;
+		vrLen = 638;
+		vrLoc = 0;
+	};
+	D7A3D68512C3512A00CCC4F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B4781C01129CCD8B00F2F575 /* Favorites.m */;
+		name = "Favorites.m: 387";
+		rLen = 0;
+		rLoc = 9760;
+		rType = 0;
+		vrLen = 726;
+		vrLoc = 4089;
+	};
+	D7A3D69012C3521F00CCC4F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B492047912B0BFAC009BC7BD /* moreinfo.h */;
+		name = "moreinfo.h: 40";
+		rLen = 0;
+		rLoc = 729;
+		rType = 0;
+		vrLen = 588;
+		vrLoc = 151;
+	};
+	D7A3D69112C3521F00CCC4F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B492047A12B0BFAC009BC7BD /* moreinfo.m */;
+		name = "moreinfo.m: 140";
+		rLen = 1580;
+		rLoc = 3995;
+		rType = 0;
+		vrLen = 816;
+		vrLoc = 5212;
+	};
+	D7A3D69212C3521F00CCC4F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B49207CC12B10EC3009BC7BD /* moreDeals.m */;
+		name = "moreDeals.m: 191";
+		rLen = 0;
+		rLoc = 4004;
+		rType = 0;
+		vrLen = 599;
+		vrLoc = 3765;
+	};
+	D7A3D69812C3534E00CCC4F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B49207CB12B10EC3009BC7BD /* moreDeals.h */;
+		name = "moreDeals.h: 16";
+		rLen = 0;
+		rLoc = 280;
+		rType = 0;
+		vrLen = 291;
+		vrLoc = 0;
+	};
+	D7A3D6A012C353F300CCC4F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B47F9786129682D700658A67 /* DetailedCoupon.h */;
+		name = "DetailedCoupon.h: 69";
+		rLen = 0;
+		rLoc = 1439;
+		rType = 0;
+		vrLen = 785;
+		vrLoc = 1183;
+	};
+	D7A3D6AD12C3556D00CCC4F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B47F9787129682D700658A67 /* DetailedCoupon.m */;
+		name = "DetailedCoupon.m: 362";
+		rLen = 8;
+		rLoc = 9101;
+		rType = 0;
+		vrLen = 1293;
+		vrLoc = 6346;
+	};
+	D7A3D6AE12C3556D00CCC4F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B47F98F21296A34400658A67 /* CouponsInSelectedCategory.m */;
+		name = "CouponsInSelectedCategory.m: 133";
+		rLen = 1496;
+		rLoc = 3749;
+		rType = 0;
+		vrLen = 749;
+		vrLoc = 4911;
+	};
+	D7A3D79112C369BC00CCC4F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B47F94511296408A00658A67 /* map.h */;
+		name = "map.h: 16";
+		rLen = 48;
+		rLoc = 281;
+		rType = 0;
+		vrLen = 644;
+		vrLoc = 0;
+	};
+	D7A3D81E12C375F800CCC4F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B47F94521296408A00658A67 /* map.m */;
+		name = "map.m: 177";
+		rLen = 0;
+		rLoc = 4483;
+		rType = 0;
+		vrLen = 1229;
+		vrLoc = 5981;
+	};
+	D7A3D81F12C375F800CCC4F5 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B497422212C0BE5000CDA5DD /* Lista.png */;
+	};
+	D7A3D83412C37A4100CCC4F5 /* HotDeal.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = HotDeal.png;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/HotDeal.png;
+		sourceTree = "<absolute>";
+	};
+	D7A3D83B12C37B2E00CCC4F5 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B47F9551129653B100658A67 /* Brands.png */;
+	};
+	D7A3D83C12C37B2E00CCC4F5 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B47F954B129653AC00658A67 /* Settings.png */;
+	};
+	D7A3D83D12C37B2E00CCC4F5 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = D7A3D83412C37A4100CCC4F5 /* HotDeal.png */;
+	};
+	D7ABF4AA12F6F47800A4A56D /* facebookViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {595, 8697}}";
+			sepNavSelRange = "{204, 0}";
+			sepNavVisRange = "{0, 730}";
+		};
+	};
+	D7ABF53612F6F4D100A4A56D /* cumbariAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {894, 26234}}";
+			sepNavSelRange = "{2220, 0}";
+			sepNavVisRange = "{1946, 978}";
+		};
+	};
+	D7ABF5C812F6F67D00A4A56D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7ABF4AA12F6F47800A4A56D /* facebookViewController.m */;
+		name = "facebookViewController.m: 10";
+		rLen = 0;
+		rLoc = 204;
+		rType = 0;
+		vrLen = 858;
+		vrLoc = 0;
+	};
+	D7ABF5C912F6F67D00A4A56D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7ABF53612F6F4D100A4A56D /* cumbariAppDelegate.m */;
+		name = "cumbariAppDelegate.m: 57";
+		rLen = 0;
+		rLoc = 1283;
+		rType = 0;
+		vrLen = 929;
+		vrLoc = 1287;
+	};
+	D7ABF5CA12F6F67D00A4A56D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7ABF53612F6F4D100A4A56D /* cumbariAppDelegate.m */;
+		name = "cumbariAppDelegate.m: 96";
+		rLen = 0;
+		rLoc = 2220;
+		rType = 0;
+		vrLen = 978;
+		vrLoc = 1946;
+	};
+	D7B3287612BF5573002516B2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B47F94541296408A00658A67 /* MyAnnotation.h */;
+		name = "MyAnnotation.h: 30";
+		rLen = 37;
+		rLoc = 642;
+		rType = 0;
+		vrLen = 685;
+		vrLoc = 0;
+	};
+	D7B3287712BF5573002516B2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B479B20512955A8D00BF3AA3 /* OverlayViewController.h */;
+		name = "OverlayViewController.h: 28";
+		rLen = 0;
+		rLoc = 563;
+		rType = 0;
+		vrLen = 570;
+		vrLoc = 0;
+	};
+	D7B3288E12BF5743002516B2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B4ADAD42129A698400D6AC60 /* AllLanguages.m */;
+		name = "AllLanguages.m: 57";
+		rLen = 272;
+		rLoc = 1009;
+		rType = 0;
+		vrLen = 755;
+		vrLoc = 691;
+	};
+	D7B3299C12BF7380002516B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = D79D8C4212A3CE1200985652 /* no_image.png */;
+	};
+	D7B3299D12BF7380002516B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B4806A3D129FB5F800D0D30C /* Back.png */;
+	};
+	D7B3299E12BF7380002516B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B4806A1D129FB1A400D0D30C /* Done.png */;
+	};
+	D7B329A012BF7380002516B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B4A5F27A129E9362004656ED /* logo.png */;
+	};
+	D7B329A112BF7380002516B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B4A5F122129E75DF004656ED /* TabBar.png */;
+	};
+	D7B329A212BF7380002516B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B4A5F218129E8B85004656ED /* newCumbariLogo.png */;
+	};
+	D7B329A312BF7380002516B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B474B3D9129D18F800EAE3E6 /* icon.png */;
+	};
+	D7B329A412BF7380002516B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B4781C05129CD8B600F2F575 /* EndScreen.png */;
+	};
+	D7B329A612BF7380002516B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B47F954A129653AC00658A67 /* Categories.png */;
+	};
+	D7B329A812BF7380002516B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B47F954C129653AC00658A67 /* Favourites.png */;
+	};
+	D7B329A912BF7380002516B2 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* cumbari-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/shephertztechnologies/Downloads/Cumbari_0_2_08_12_2010/cumbari-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	D7B3B9C21296A7F7001361A1 /* cumbari */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = cumbari;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	D7B3B9E41296A7FC001361A1 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D7B3B9E51296A7FC001361A1 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D7BB782812C1D06600CFA95C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = D79D8C4412A3CE1900985652 /* no-image-icon.png */;
+	};
+	D7BB78C612C1E5F600CFA95C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B4ADADAB129A8E0E00D6AC60 /* English */;
+		name = "Localizable.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 551;
+		vrLoc = 0;
+	};
+	D7BB78C712C1E5F600CFA95C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B4ADADAF129A8E1B00D6AC60 /* swe */;
+		name = "Localizable.strings: 18";
+		rLen = 13;
+		rLoc = 412;
+		rType = 0;
+		vrLen = 571;
+		vrLoc = 0;
+	};
+	D7BB78DF12C2088600CFA95C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B488C79512B3698D00A2CBE0 /* offersInList.h */;
+		name = "offersInList.h: 21";
+		rLen = 0;
+		rLoc = 355;
+		rType = 0;
+		vrLen = 408;
+		vrLoc = 0;
+	};
+	D7BB78E112C2088600CFA95C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B488C93F12B3A2F200A2CBE0 /* Range.h */;
+		name = "Range.h: 21";
+		rLen = 0;
+		rLoc = 339;
+		rType = 0;
+		vrLen = 391;
+		vrLoc = 0;
+	};
+	D7BB792512C2110B00CFA95C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B488C94012B3A2F200A2CBE0 /* Range.m */;
+		name = "Range.m: 140";
+		rLen = 0;
+		rLoc = 2915;
+		rType = 0;
+		vrLen = 1658;
+		vrLoc = 1220;
+	};
+	D7BB794E12C2136C00CFA95C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B488C79612B3698D00A2CBE0 /* offersInList.m */;
+		name = "offersInList.m: 187";
+		rLen = 72;
+		rLoc = 3884;
+		rType = 0;
+		vrLen = 987;
+		vrLoc = 4782;
+	};
+	D7BB795C12C2145400CFA95C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B47F94E81296481700658A67 /* categories.h */;
+		name = "categories.h: 25";
+		rLen = 0;
+		rLoc = 503;
+		rType = 0;
+		vrLen = 866;
+		vrLoc = 0;
+	};
+	D7BB796412C2154200CFA95C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B4941BEB129BAF4800E459B6 /* Brands.h */;
+		name = "Brands.h: 36";
+		rLen = 0;
+		rLoc = 745;
+		rType = 0;
+		vrLen = 795;
+		vrLoc = 200;
+	};
+	D7BB796512C2154200CFA95C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B4781C00129CCD8B00F2F575 /* Favorites.h */;
+		name = "Favorites.h: 34";
+		rLen = 0;
+		rLoc = 651;
+		rType = 0;
+		vrLen = 737;
+		vrLoc = 0;
+	};
+	D7C6102012C4A86D00EB5AEA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B4941BEC129BAF4800E459B6 /* Brands.m */;
+		name = "Brands.m: 379";
+		rLen = 0;
+		rLoc = 6983;
+		rType = 0;
+		vrLen = 535;
+		vrLoc = 6701;
+	};
+	D7C6104B12C4AEDD00EB5AEA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* cumbariAppDelegate.h */;
+		name = "cumbariAppDelegate.h: 77";
+		rLen = 0;
+		rLoc = 1911;
+		rType = 0;
+		vrLen = 1008;
+		vrLoc = 979;
+	};
+	D7C6104D12C4AEDD00EB5AEA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B4869CF212AF6C74000AAE45 /* Splash.h */;
+		name = "Splash.h: 15";
+		rLen = 0;
+		rLoc = 301;
+		rType = 0;
+		vrLen = 310;
+		vrLoc = 0;
+	};
+	D7C6104E12C4AEDD00EB5AEA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B4869CF312AF6C74000AAE45 /* Splash.m */;
+		name = "Splash.m: 38";
+		rLen = 0;
+		rLoc = 1146;
+		rType = 0;
+		vrLen = 1154;
+		vrLoc = 636;
+	};
+	D7C6105D12C4B03100EB5AEA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 51";
+		rLen = 0;
+		rLoc = 963;
+		rType = 0;
+		vrLen = 778;
+		vrLoc = 341;
+	};
+	D7C6106E12C4C97000EB5AEA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B47F94E91296481700658A67 /* categories.m */;
+		name = "categories.m: 143";
+		rLen = 0;
+		rLoc = 1781;
+		rType = 0;
+		vrLen = 1265;
+		vrLoc = 8348;
+	};
+	D7CA0BB412ACABB10005BA8C /* SlideToUseDeal.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = SlideToUseDeal.h;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/SlideToUseDeal.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1330, 570}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 747}";
+		};
+	};
+	D7CA0BB512ACABB10005BA8C /* SlideToUseDeal.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = SlideToUseDeal.m;
+		path = /Users/shephertztechnologies/Desktop/Cumbari_0_6_31_01_2011/SlideToUseDeal.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1330, 4615}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{7430, 1890}";
+		};
+	};
+}

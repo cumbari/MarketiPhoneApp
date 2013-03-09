@@ -1,0 +1,27 @@
+/* 
+   Localizable.strings
+   cumbari
+
+   Created by Shephertz Technology on 22/11/10.
+   Copyright 2010 ShephertzTechnology PVT LTD. All rights reserved.
+ */
+"TabBar Title Of Hot Deals" = "HotDeals.";
+
+"Navigation Title of hot deals" = "Cumbari.";
+
+"TabBar Title Of Categories" = "Kategorier";
+
+"TabBar Title Of Brands" = "Varumärken";
+
+"TabBar Title Of Favorites" = "Favoriter";
+
+"TabBar Title of Settings" = "Inställningar";
+
+"Title of Back Button" = "Tillbaka";
+
+"Title of Map Button" = "Karta";
+
+"Title of Done Button" = "gjort";
+
+"Title of List Button" = "Lista";
+

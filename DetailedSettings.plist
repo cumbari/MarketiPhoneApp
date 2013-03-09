@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>settings</key>
+		<string>Language</string>
+	</dict>
+	<dict>
+		<key>settings</key>
+		<string>Unit</string>
+	</dict>
+	<dict>
+		<key>settings</key>
+		<string>Offers in list</string>
+	</dict>
+	<dict>
+		<key>settings</key>
+		<string>Range</string>
+	</dict>
+</array>
+</plist>
